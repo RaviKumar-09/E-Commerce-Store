@@ -137,7 +137,7 @@ label{
     margin-bottom: 0;
     background: url(../images/arrow.png) no-repeat 92% center #ffffff;
     background-size: 5% !important;
-    -webkit-appearance: none;
+    -webkit-appearanc: none;
 }
 .header-middle form input[type="submit"]{
     background: url(../images/search.png) no-repeat 4px 0px #fda30e;
@@ -171,9 +171,7 @@ label{
     line-height: 1.8em;
 }
 /* Icons */
-.footer-bottom a {
 
-}
 
 /* pop-up text */
 .footer-bottom a span {
@@ -520,8 +518,6 @@ a.callbacks_nav.callbacks1_nav.prev {
   display: inline-block;
 }
 #slider3-pager span,#slider4-pager span{
-}
-#slider3-pager span,#slider4-pager span{
 	width:100px;
 	height:15px;
 	background:#fff;
@@ -549,7 +545,7 @@ a.callbacks_nav.callbacks1_nav.prev {
   margin: 0;
 }
 .rslides li {
-  -webkit-backface-visibility: hidden;
+  -webkit-backface-visibilit: hidden;
   position: absolute;
   display: none;
   width: 100%;
